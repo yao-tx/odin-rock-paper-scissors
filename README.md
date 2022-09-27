@@ -2,9 +2,9 @@
 
 The Odin Project - Rock Paper Scissors
 
-Practice project.
+Practice project - a game of rock paper scissors where you play games of five with the computer.
 
-A game of rock paper scissors where you play games of five with the computer.
+Link here: https://yao-tx.github.io/odin-rock-paper-scissors/
 
 References/Attributions:
 
