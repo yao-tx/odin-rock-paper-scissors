@@ -1,4 +1,4 @@
-# odin-rock-paper-scissors
+# The Odin Project - Rock Paper Scissors game (Work-in-progress)
 
 The Odin Project - Rock Paper Scissors
 
