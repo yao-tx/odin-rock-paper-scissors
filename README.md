@@ -1,8 +1,8 @@
-# The Odin Project - Rock Paper Scissors game (Work-in-progress)
+# The Odin Project - Rock Paper Scissors game (work-in-progress)
 
-The Odin Project - Rock Paper Scissors
+This is a project based on the online course [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) at [The Odin Project](https://www.theodinproject.com/).
 
-Practice project - a game of rock paper scissors where you play games of five with the computer.
+A game of rock paper scissors where you play games of five with the computer.
 
 Link here: https://yao-tx.github.io/odin-rock-paper-scissors/
 
