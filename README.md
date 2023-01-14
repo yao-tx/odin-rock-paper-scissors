@@ -4,7 +4,9 @@ This is a project based on the online course [Rock Paper Scissors](https://www.t
 
 A game of rock paper scissors where you play games of five with the computer.
 
-Link here: https://yao-tx.github.io/odin-rock-paper-scissors/
+![Screenshot 2023-01-15 at 7 57 39 AM](https://user-images.githubusercontent.com/7468923/212502300-a3f3e03d-51ee-4158-a243-316adfca4f1b.png)
+
+Checkout the project [here](https://yao-tx.github.io/odin-rock-paper-scissors/)!
 
 References/Attributions:
 
